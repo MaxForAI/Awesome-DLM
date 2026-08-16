@@ -232,6 +232,10 @@ Papers in this repository are selected based on the following criteria:
 - [Diffusion of Thoughts: Chain-of-Thought Reasoning in Diffusion Language Models](https://arxiv.org/abs/2402.07754), 2024
 - [Beyond Autoregression: Fast LLMs via Self-Distillation Through Time](https://arxiv.org/abs/2410.21035), 2024
 
+### 2026
+
+- [Learning from the Self-future: On-policy Self-distillation for dLLMs](https://arxiv.org/abs/2606.18195), 2026 [[Code](https://github.com/xingzhejun/d-opsd-code)]
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
@@ -3287,4 +3291,3 @@ We propose EdiText, a controllable text editing method that modify the reference
 ### 许可证
 
 MIT License
-
